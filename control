@@ -1,0 +1,9 @@
+Package: me.snajdovski
+Name: Remove Beta 15 Alert
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: It removes the annoying beta alert from ios 15.5 beta 4, tested on iphone se 1st gen and iphone 8
+Maintainer: Stefan Najdovski
+Author: Stefan Najdovski
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
